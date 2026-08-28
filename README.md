@@ -1,7 +1,7 @@
 ☁️ Umbrella Cloud Runner
 Um endless runner fofo inspirado no Dino do Chrome, mas com uma nuvenzinha de guarda-chuva amarelo desviando de pássaros e tempestades!
 
-🎮 Demo ao vivo: detiillimichel-max.github.io/umbrella-cloud-runner/
+🎮 Demo ao vivo: htpps//detiillimichel-max.github.io/umbrella-cloud-runner/
 
 Game Preview HTML5 GitHub Pages
 
