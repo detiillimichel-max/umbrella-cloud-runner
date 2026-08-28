@@ -30,6 +30,5 @@ bash
 open index.html
 📄 Licença
 MIT - Pode usar e modificar à vontade!
-
-Feito com ☁️ por Michel Detilli com.a ajuda da Meta ia - inspirado no Chrome Dino
+Resumo:Feito com ☁️ por Michel Detilli + Meta AI - Ideia e direção do Michel, código gerado com Muse (Meta AI)
 
